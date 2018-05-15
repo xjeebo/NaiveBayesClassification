@@ -1,2 +1,5 @@
-# Titanic_NaiveBayesClassification
-Naive Bayes Classification 
+# Naive Bayes Classification
+  - Titanic Dataset
+  - Weather Dataset
+  
+ 
