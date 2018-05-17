@@ -4,9 +4,9 @@
   
   
 ## Weather Dataset 
-###To Execute Program:
+### To Execute Program:
 - python naive2.py
 
-###Expected Output:
+### Expected Output:
 - Output_File.csv
  
